@@ -1,0 +1,16 @@
+#variables explained
+
+#this is a variable
+name = "Tom Wallace"
+
+#the variable is called "name"
+#the variable is storing a value
+#the value is "Tom Wallace"
+#variables are used in games a lot
+#for example:
+score = 0
+#the value in a variable can change (vary)
+#for example
+score = 100
+
+#variables always have a SINGLE equals sign 
