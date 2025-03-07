@@ -1,0 +1,9 @@
+#data types
+# C. R. I. B. S.
+#Here are variables that hold...
+#...each type of data type
+character = "A"#must have speech marks
+real float = 22.46
+integer = 555
+boolean = True#capital T
+string = "ABC123!&*"#must have speech marks
