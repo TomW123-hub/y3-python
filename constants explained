@@ -1,0 +1,21 @@
+#Constants explained
+
+#The defenition of a variable is
+#A named location
+#In a computers memory
+#that stores a value
+#the value can change
+
+#The defenition of a CONSTANT is:
+#A named location
+#in a computers memory
+#that stores a value
+#the value SHOULD NOT be changed
+#it is written in all capital letters
+
+#Here is an example of a CONSTANT
+FREETHROW = 1
+DUNKSHOT = 2
+PI = 3.141
+THREEPOINTER = 3
+numberOFfouls = 0 # this is a variable
