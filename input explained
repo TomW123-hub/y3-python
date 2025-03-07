@@ -1,0 +1,26 @@
+#imput explained
+
+#python has many speech marks "built in"  function
+#here is a list
+#https://docs.python.org/3/library/functions.html
+
+# here is a variable
+name = "Bob"
+
+#however, not everyone is called bob
+#here is how to allow a user to input
+#..their name
+name = str(input("Enter your name"))
+print("nice to meet you",name)
+
+age = int(input("Enter your age"))
+print("you are",age)
+
+colour = str(input("Enter your favourite colour"))
+print("your favourite colour is",colour)
+
+location = str(input("where do you live"))
+print("you live in",location)
+
+team = str(input("what football team do you support"))
+print("your favourite football team is not as good as crystal pallace",name) 
