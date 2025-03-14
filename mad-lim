@@ -1,4 +1,21 @@
 print("welcome to napolli pizas")
+
 print("what would you like to order")
 print("")
-name = input("Enter an name")
+
+size1 = input("Enter a size: small, medium or  large")
+
+
+number1 = input(" enter an amount of toppings you want")
+number2 = input(" number1*5")
+answer1 = input(" enter yes or no")
+charity1 = input("how much would you like to give to charity")
+
+
+            
+
+print("hello what do you want to eat")
+print("could i get a" ,size1, "pizza with" , number1, "toppings and could they be peperoni, peppers, ham, pineaple,bacon, olives or cheeze")
+("that would be" ,number2, "pounds, would you like to donate to charity? ", answer1, " please wait 15 minutes while we preapare your food")
+
+
