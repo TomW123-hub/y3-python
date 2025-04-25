@@ -1,0 +1,11 @@
+age= int(input("enter your age"))
+ticket = str(input("do you have a ticket?"))
+
+print("Welcome to the cinema")
+print("This movie is rated 15")
+print("")
+
+if age >= 15 and ticket == "y":
+  print("Please find your seat")
+else:
+  print("you are not allowed this time")
